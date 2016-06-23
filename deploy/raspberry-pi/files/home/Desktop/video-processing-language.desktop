@@ -1,5 +1,0 @@
-[Desktop Entry]
-Name=Video Processing Language
-Exec=lxterminal -e /opt/diss/dev/app/run.sh
-Icon=lxterminal
-Type=Application
